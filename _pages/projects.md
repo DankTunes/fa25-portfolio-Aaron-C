@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Aaron Chin - Portfolio
 permalink: /projects/
 ---
 
