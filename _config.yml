@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Aaron Chin
 description              : Aaron Chin - Projects and CV 
-baseurl                  : "portfolio-fa25-fa25-Aaron-C" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-Aaron-C" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
