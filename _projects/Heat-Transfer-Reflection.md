@@ -1,3 +1,11 @@
+---
+layout: project
+title: Heat Transfer Homework 
+description: i get kicked from uni
+technologies: spaghetti
+image: /assets/images/radio-machine-cad.jpg
+---
+
 # Silicon Chip Heat Transfer Assignment
 
 ## Reflection
