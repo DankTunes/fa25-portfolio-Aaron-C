@@ -14,4 +14,4 @@ This assignment on heat conduction through a thin silicon chip with convective c
 Overall, working through this problem deepened my appreciation for how material properties, geometry, and convection mechanisms interact to manage thermal limits in real devices like processors. These skills in analyzing conduction-convection systems, estimating h requirements, and selecting feasible cooling processes will be directly useful in future projects involving thermal design of electronics, battery systems, or any high-heat-flux applications, helping me make informed choices about cooling strategies to ensure reliability and performance.
 
 ## Homework PDF
-assets/Quarter Car Suspension Report (Group 1).pdf
+[View Resume](assets/Problem_Set_1_submission.pdf)
